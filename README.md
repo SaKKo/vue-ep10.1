@@ -1,22 +1,16 @@
-# manga-iview
+The result of this video
 
-> My cat&#39;s meow Nuxt.js project
+[Vue EP10: Call API + iView UI Framework](https://youtu.be/IxWebuaHAjg)
 
-## Build Setup
+Manga API From
 
-```bash
-# install dependencies
-$ npm install
+https://jikan.moe/
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+To use this just run
 
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
+```
+npm install
+npm run dev
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+And visit http://localhost:3000
